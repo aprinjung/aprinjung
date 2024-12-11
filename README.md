@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
-띄어쓰기는 %20
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20자기%20소개%20&&fontColor=EAEAEA&animation=scaleIn)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aprinjung)](https://github.com/aprinjung/github-readme-stats)
 
