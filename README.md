@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://ilovepythonn.tistory.com/](https://ilovepythonn.tistory.com/)
 
-- 💬 Ask me about **Scikit-learn, Pandas, Data analysis.**
+- 💬 Ask me about **Data analysis, Pandas, Scikit-learn.**
 
 - 📫 How to reach me **jioyun1021@gmail.com**
 
